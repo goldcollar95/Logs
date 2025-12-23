@@ -1,0 +1,2 @@
+# Logs
+Error Log Analystics
